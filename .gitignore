@@ -1,0 +1,92 @@
+# ------------------------------
+# QGIS Plugin / Python Project
+# ------------------------------
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environment
+venv/
+ENV/
+env/
+.venv/
+.python-version
+
+# Jupyter / IPython
+.ipynb_checkpoints
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+
+# Logs
+*.log
+
+# QGIS specific
+.qgis2/
+.qgis3/
+.qgis/
+.qgis_cache/
+processing/
+
+# IDE / Editor settings
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Outputs / Generated data
+outputs/
+dem_tiles/
+*.aux.xml
+*.tif.aux.xml
+*.tif.ovr
+*.lock
+
+# Map exports
+*.png
+*.jpg
+*.pdf
+*.svg
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*~
+
+# ------------------------------
+# End of .gitignore
+# ------------------------------
