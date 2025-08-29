@@ -17,7 +17,7 @@ The **Topography Mapping Tool** is a QGIS plugin that automates downloading, mos
 ## 🛠️ Installation
 1. Download this repository or clone it:
    ```bash
-   git clone https://github.com/ravikantmahto-GIS/topography-mapping-tool.git
+   git clone https://github.com/ravikantmahto-GIS/topography_mapping_tool.git
 
 2. Copy the plugin folder (topography_mapping_tool) into your QGIS profile’s plugin directory:
 
@@ -48,3 +48,17 @@ Linux/Mac:
 ---   
 
 ## 📸 Example Output
+
+<img width="2407" height="1210" alt="Example_topography_map" src="https://github.com/user-attachments/assets/a4edd1b6-0238-4d1f-acb3-b1c1e81b324a" />
+
+---  
+
+## 👨‍💻 Author : Ravikant
+Email: ravikant.mahto@gmail.com
+
+## ⚖️ License 
+This plugin is released under the GNU GPL v2 license
+
+
+
+
