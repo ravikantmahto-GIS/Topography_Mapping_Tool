@@ -35,6 +35,8 @@ The **Topography Mapping Tool** is a QGIS plugin that streamlines the process of
 
 4. Restart QGIS → Enable plugin in Plugins > Manage and Install Plugins.
 
+   ⚠️ Note: For full installation guide please read INSTALLATION.md file
+
 ---
 
 ##  Usage
