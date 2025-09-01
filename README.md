@@ -21,11 +21,14 @@ The **Topography Mapping Tool** is a QGIS plugin that streamlines the process of
 
 2. Copy the plugin folder (topography_mapping_tool) into your QGIS profile’s plugin directory:
 
-Windows:
-   C:\Users\<User>\AppData\Roaming\QGIS\QGIS3\profiles\default\python\plugins
+**Windows:**
+      C:\Users\<User>\AppData\Roaming\QGIS\QGIS3\profiles\default\python\plugins
 
-Linux/Mac:
-   ~/.local/share/QGIS/QGIS3/profiles/default/python/plugins
+**Linux/Mac:**
+      ~/.local/share/QGIS/QGIS3/profiles/default/python/plugins
+
+**MacOS:**
+      ~/Library/Application Support/QGIS/QGIS3/profiles/default/python/plugins/
 
 3. Restart QGIS → Enable plugin in Plugins > Manage and Install Plugins.
 
