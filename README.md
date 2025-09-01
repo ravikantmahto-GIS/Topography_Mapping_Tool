@@ -62,7 +62,6 @@ The **Topography Mapping Tool** is a QGIS plugin that streamlines the process of
 ---  
 
 ##  Author : Ravikant
-Email: ravikant.mahto@gmail.com
 
 ##  License 
 This plugin is released under the GNU GPL v2 license
