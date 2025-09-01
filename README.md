@@ -1,6 +1,6 @@
-# 🌍 Topography Mapping Tool (QGIS Plugin)
+# Topography Mapping Tool (QGIS Plugin)
 
-The **Topography Mapping Tool** is a QGIS plugin that streamlines the process of downloading, mosaicking, clipping, and hillshade generation from Copernicus DEM (30m) data. Designed with researchers and GIS professionals in mind, it enables rapid creation of **publication-ready topographic maps** for reports and scientific papers. The plugin integrates **DEM processing, hillshade visualization, color ramp symbology, cartographic map layouts, grid/coordinate annotations, scale bars, and north arrows,** making it especially useful for **geomorphology, geology, hydrology, disaster mitigation and environmental studies**. Its intuitive interface allows users to efficiently generate high-quality terrain visualization products that support spatial analysis, research communication, and decision-making.
+The **Topography Mapping Tool** is a QGIS plugin that streamlines the process of downloading, mosaicking, clipping, and hillshade generation from Copernicus DEM (30m) data. Designed with researchers and GIS professionals in mind, it enables rapid creation of **publication-ready topographic maps** for reports and scientific papers. The plugin integrates **DEM processing, hillshade visualization, color ramp symbology, cartographic map layouts, grid/coordinates,** making it especially useful for **geomorphology, geology, hydrology, disaster mitigation and environmental studies**. Its intuitive interface allows users to efficiently generate high-quality terrain visualization products that support spatial analysis, research communication, and decision-making.
 
 ---
 
@@ -9,7 +9,7 @@ The **Topography Mapping Tool** is a QGIS plugin that streamlines the process of
 -  **Mosaicing & clipping** DEM tiles by latitude/longitude extent.  
 -  **Hillshade generation** with 50% transparency overlay.  
 -  **Customizable color ramps** for DEM visualization.  
--  **Map layout creation** (legend, north arrow, scale bar, coordinates).  
+-  **Map layout creation** (legend and coordinates).  
 -  **Progress bar & cancel option** during processing.  
 
 ---
