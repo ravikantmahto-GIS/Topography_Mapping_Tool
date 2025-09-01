@@ -1,0 +1,14 @@
+# Core dependencies for Topography Mapping Tool
+numpy>=1.20
+matplotlib>=3.4
+requests>=2.26
+
+# Raster and GIS processing
+rasterio>=1.2
+rioxarray>=0.11
+boto3>=1.18
+gdal>=3.0
+
+# QGIS dependencies are provided by QGIS itself, 
+# so users don't need to install PyQt5 / qgis / qgis.core manually.
+# Just ensure QGIS (>=3.22 LTR recommended) is installed.
